@@ -1,0 +1,5 @@
+kind: wasmer.io/App.v0
+name: simulator-web
+owner: suraj52721
+package: wasmer/hello@^0.1.3
+app_id: da_R4qIGtmUbYo6
